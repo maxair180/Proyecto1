@@ -4,15 +4,15 @@ Ejemplo:
 Expresion:
 a+b-(c-b)+c
 
-2. Recorridos del árbol:
+1. Recorridos del árbol:
 - *Preorden*: + + a b - c b e
 - *Inorden*: a + b - (c - b) + e
 - *Postorden*: a b + c b - e + -
 
-3. Evaluación con notación postfija:
+2. Evaluación con notación postfija:
 - Se evalúa la expresión usando la notación postfija.
 
-4. Visualización del árbol gráfico:
+3. Visualización del árbol gráfico:
 - Un diagrama del árbol de expresión será mostrado en la interfaz.
 
 La aplicación debe ser capaz de:
